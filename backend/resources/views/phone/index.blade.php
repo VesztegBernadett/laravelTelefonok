@@ -22,7 +22,7 @@
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <span>{{number_format($phone["price"], 0, ",", " ")}}</span>
+                            <span>{{number_format($phone["price"], 0, ",", " ")}} Ft</span>
                         </div>
                     </div>
                 </div>
